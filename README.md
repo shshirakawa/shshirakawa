@@ -1,16 +1,31 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4F46E5&height=220&section=header&text=Sh.%20Shirakawa&fontSize=48&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
-<!--
-**shshirakawa/shshirakawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Я или мы... Не суть.<br>Мы просто любим кодить.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  Made with ♥ by Sh. Shirakawa
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shshirakawa&style=for-the-badge&color=4F46E5"/>
+</p>
+
+<p align="center">
+  <a href="https://shshirakawa.com">
+    <img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+  <a href="mailto:contact@shshirakawa.com">
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/shshirakawa">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4F46E5&height=120&section=footer"/>
+</p>
