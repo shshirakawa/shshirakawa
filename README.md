@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="assets/banner.png" width="100%" alt="Sh. Shirakawa — midnight coding">
+  <img src="assets/banner.jpg" width="100%" alt="Sh. Shirakawa — midnight coding">
 </p>
 
 <p align="center">
